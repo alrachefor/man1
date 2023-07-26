@@ -14,5 +14,13 @@ h1
 
 video
 {
-    
+    position: relative;
+    left: 300px;
+}
+
+h2
+{
+    color: red;
+    text-align: center;
+    font-size: 25px;
 }
